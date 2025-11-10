@@ -112,8 +112,8 @@ Imagen de codigo de ejecución
 
 
 Resultado en consola
+
 <img width="474" height="182" alt="image" src="https://github.com/user-attachments/assets/0a61a70e-3098-4d91-be84-ee1bc2447a1a" />
 
 
-- Observar en la salida la representación del AST decorado y la impresión de la tabla de símbolos (si se suministraron tipos externos).
 
